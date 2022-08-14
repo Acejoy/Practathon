@@ -30,7 +30,7 @@ __Problem Statement__: Given 10 million points, each of 100 dimensions and a que
 `To run: python file_name.py`
 
 ## Folder Structure
-
+```
 .
 ├── algo1.py
 ├── brute_force.py
@@ -38,6 +38,7 @@ __Problem Statement__: Given 10 million points, each of 100 dimensions and a que
 ├── create_dataset.py
 ├── query_generation.py
 └── README.md
+```
 
 ## Pseudocode and Time Complexity
 
